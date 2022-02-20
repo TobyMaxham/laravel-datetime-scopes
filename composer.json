@@ -1,6 +1,6 @@
 {
   "name": "tobymaxham/laravel-datetime-scopes",
-  "description": "Zhylon OAuth2 Provider for Laravel Socialite",
+  "description": "A package to simply query your datasets.",
   "license": "MIT",
   "keywords": [
     "zhylon",
